@@ -3,7 +3,7 @@
 
 
 <!--
-**kim-mun-gon/kim-mun-gon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mungonkim/mungonkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 문제 풀이의 흔적들
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmk1460)](https://solved.ac/profile/kmk1460/) <img src="https://github-readme-stats.vercel.app/api?username=kim-mun-gon&theme=chartreuse-dark&show_icons=true" width="400" height="178" />
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmk1460)](https://solved.ac/profile/kmk1460/) <img src="https://github-readme-stats.vercel.app/api?username=mungonkim&theme=chartreuse-dark&show_icons=true" width="400" height="178" />
 
 ## Career
 | Type   | Category        | Date                | Contents                        | Organization       |
