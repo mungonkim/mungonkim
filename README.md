@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 |  연구원  | Computer Vision  | 2023.12. ~ 2024.03. | 학부연구생                          | 상명대학교 - Pi:Lab |
 |  연구원  | AI Protection    | 2024.04. ~ 2024.12  | 학부연구생                       | 상명대학교 - Pioneer |
 |   대회  |AI          | 2024.04.            | SW 중심대학사업 인공지능과 클라우드를 활용한 서비스, 콘텐츠 개발 공모전 - 최우수상 | 상명대학교-돌아와 문바오 |
-|   회사  | Full-time   | 2025.04.07 ~         |  Azure 클라우드, Oracle DB 기반 업무 시스템 운영 및 배치 스케줄 관리, 고객 CMS 및 SLA 대응 | 볼보파이낸셜서비스코리아 |
+|   회사  | Full-time   | 2025.04.07 ~         |  Azure 클라우드, Oracle DB 기반 업무 시스템 운영 및 배치 스케줄 관리, 고객 CMS 및 SLA 대응, 여신 관련 시스템 운영 지원 | 볼보파이낸셜서비스코리아 |
