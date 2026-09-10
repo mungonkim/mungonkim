@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 문제 풀이의 흔적들
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmk1460)](https://solved.ac/profile/kmk1460/) <img src="https://github-readme-stats.vercel.app/api?username=mungonkim&theme=chartreuse-dark&show_icons=true" width="400" height="178" />
 
 ## Career
 | Type   | Category        | Date                | Contents                        | Organization       |
